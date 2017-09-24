@@ -1,0 +1,92 @@
+a.lnav:visited {color : #000033; font-family : arial; font-size : 9pt}
+a.lnav:hover {color : #000000; font-family : arial; font-size : 9pt; background-color:#9BCDFF}
+a.mainhdg:visited {font-family : Arial; font-size : 11pt; font-weight : bold; color : #000080; text-align : center;}
+a.mainhdg:link {font-family : Arial; font-size : 11pt; font-weight : bold; color : #000080; text-align : center;}
+a.mainhdg:active {font-family : Arial; font-size : 11pt; font-weight : bold; color : #000080; text-align : center;}
+a.mainhdg:hover {font-family : Arial; font-size : 11pt; font-weight : bold; color : #000080; text-align : center;}
+
+/*  Styles for Main Links */
+a:link {color : #000080; font-family : arial; font-size : 9pt}			/* Link  */
+a:active {color : black; font-family : arial; font-size : 9pt}			/* Active Link */
+a:visited {color : #333333; font-family : arial; font-size : 9pt}		/* Visited Link */
+a:hover {color : #003366;font-family : arial; font-size : 9pt;}		/* Hover Link */
+
+/*  Styles for Main Text */
+.mainhdg {font-family : Arial; font-size : 11pt; font-weight : bold; color : #000080; text-align : center;}	/* Main Heading Style */
+.nychdg {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000; text-align : center;}	/* NYC Heading */
+.label {font-family : Arial; font-size: 9pt; color : black; font-weight : bold}
+.headinglabel {font-family : Arial; font-size: 14pt; color : black; font-weight : bold}
+.largelabel {font-family : Arial; font-size: 12pt; color : black; font-weight : bold}
+.largecontent {font-family : Arial; font-size: 12pt; color : black; }
+.rightlabel {font-family: Arial; font-size: 9pt; color : black; font-weight : bold; text-align: right}
+.centerlabel {font-family: Arial; font-size: 9pt; color : black; font-weight : bold; text-align: center}
+.centerbgklabel {font-family: Arial; background-color : #fff4d9;font-size: 10pt; color : black; font-weight : bold;}
+.content {font-family : arial; font-size : 9pt; color : black; font-weight: normal}	/* Content Style */
+.rightcontent {font-family : Arial; font-size: 9pt; color : black; text-align : right; font-weight: normal}
+.centercontent {font-family : Arial; font-size: 9pt; color : black; text-align : center; font-weight: normal}
+.leftcontent {font-family : Arial; font-size: 9pt; color : black; text-align : left; font-weight: normal}
+.colorcontent {font-family : Arial; font-size: 9pt; color : brown;}
+.colorrightcontent {font-family : Arial; font-size: 9pt; color : brown; text-align : right}
+.colorcentercontent {font-family : Arial; font-size: 9pt; color : brown; text-align : center}
+.monocontent {font-family : monospace; font-size : 8pt; color : black}	/* Content Style */
+.highlightcontent {font-family : arial; font-size : 9pt; font-weight : bold; color : black}	/* Content Style */
+.righthighlightcontent {font-family : Arial; font-size: 9pt; font-weight : bold; color : black; text-align : right}
+.centerhighlightcontent {font-family : Arial; font-size: 9pt; font-weight : bold; color : black; text-align : center}
+.footnote {font-family : arial; font-size : 8pt; color : black}	/* Content Style */
+.smallcontent {font-family : arial; font-size : 8pt; color : black; }
+.centersmallcontent {font-family : arial; font-size : 8pt; color : black; text-align: center}
+.tinycontent {font-family : arial; font-size : 6pt; color : black; font-weight: normal}
+.errormsg { font-family : arial; font-size: 12pt; font-weight: bold; color : red;}
+
+/*  Styles for Header */
+.header {font-family : Arial; font-size : 9pt; font-weight : bold; color : #FFFFFF ; text-align : left; background-color : #353535}	/* Header */
+.header a:link {color : #FFFFFF; font-family : arial; font-size : 9pt}						/* Link  */
+.header a:active {color : #FFFFFF; font-family : arial; font-size : 9pt}					/* Active Link */
+.header a:visited {color : #EBEBEB; font-family : arial; font-size : 9pt}					/* Visited Link */
+.header a:hover {color : #ffff00;font-family : arial; font-size : 9pt}						/* Hover Links */
+
+.header2 {font-family : Arial; font-size : 9pt; font-weight : bold; color : #FFFFFF ; text-align : right; background-color : #353535}	/* Header Right Aligned */
+.header2 a:link {color : #FFFFFF; font-family : arial; font-size : 9pt}					/* Link  */
+.header2 a:active {color : #FFFFFF; font-family : arial; font-size : 9pt}					/* Active Link */
+.header2 a:visited {color : #EBEBEB; font-family : arial; font-size : 9pt}					/* Visited Link */
+.header2 a:hover {color : yellow;font-family : arial; font-size : 9pt}						/* Hover Links */
+
+.header3 {font-family : Arial; font-size : 9pt; font-weight : bold; color : #FFFFFF ; text-align : center; background-color : #353535}	/* Header CENTERED */
+
+.header4 {font-family : Arial; font-size : 11pt; font-weight : bold; color : #FFFFFF ; text-align : center; }	/* Header Right Aligned */
+.header4 a:link {color : #000080; font-family : arial; font-size : 11pt}				/* Link  */
+.header4 a:active {color : black; font-family : arial; font-size : 11pt}				/* Active Link */
+.header4 a:visited {color : #333333; font-family : arial; font-size : 11pt}						/* Visited Link */
+.header4 a:hover {color : #003366;font-family : arial; font-size : 11pt;}					/* Hover Links */
+
+
+/*  Styles for Highlighted Headings */
+.hover {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000 ; text-align : left; background-color : #9BCDFF}	/* Highlighted Heading */
+.hover a:link {color : #000080; font-family : arial; font-size : 9pt}	/* Link  */
+.hover a:active {color : black; font-family : arial; font-size : 9pt}	/* Active Link */
+.hover a:visited {color : #333333; font-family : arial; font-size : 9pt}/* Visited Link */
+.hover a:hover {color : #FFFFFF; font-family : arial; font-size : 9pt; background-color : #353535;}		/* Hover Link */
+
+/* Styles for Screens */
+.tblhdg {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000 ; background-color : #9BCDFF}	/* Search Box Table Heading */
+.srchtype {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000; text-align : left;}	/* Search Type Heading */
+.maininfo {font-family : arial; font-size : 9pt; color : black; font-weight : bold; background-color : #9BCDFF}		/* Use to highlight the Main Information */
+.colhdg {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000; text-align : left; background-color : #CECECE}	/* Table Column Heading */	
+.centercolhdg {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000; text-align : center; background-color : #CECECE}	/* Table Column Heading */	
+.bolddata {font-family : Arial; font-size : 9pt; font-weight : bold; color : #000000; text-align : center;}  /* Bold 10 Points and Centered */
+.inlineform {font-family : arial; font-size : 9pt; color : black; background-color : #CECECE }
+.menunumber {font-family : Arial; font-size : 11pt; font-weight : bold; color : #FFFFFF ; background-color : #333333; text-align : center }
+.centersmallcolhdg {font-family : Arial; font-size : 8pt; font-weight : bold; color : #000000; text-align : center; background-color : #CECECE}	/* Table Column Heading */	
+.mainhdg3 {font-family : Arial; font-size : 11pt; font-weight : bold; color : red; text-align : right;}	/* Main Heading Style */
+
+
+/* Styles for Form Elements */
+form {margin:0;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;padding:0;border:0;}
+.textinput {font-size: 9pt}
+.alert {font-family : Arial; font-size: 9pt; color : red; font-weight : bold}
+
+DIV.noprint {display: none;}
+
+
+
+   
